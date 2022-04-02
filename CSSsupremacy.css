@@ -1,0 +1,73 @@
+#comeco{
+    background-color: rgb(75, 153, 75);
+    border-radius: 10px;
+    position: static;
+}
+
+#logo {
+    width: 5%;
+    height:5%;
+}
+.horiz {
+    flex-direction: row;
+}
+.verti{
+    flex-direction: column;
+}
+.flex {
+    display: flex;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+#titulo {
+    width: 40px 40px;
+}
+.butao {
+    text-decoration: none;
+    color: black;
+    padding: 16px;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 10px;
+    background-color: darkolivegreen;
+}
+.butao:hover{
+    background-color: rgb(7, 19, 0);
+    color: antiquewhite;
+}
+#OCoiso{
+    float: right;
+    border-radius: 10px;
+    border: 2px solid black;
+    background-color: rgb(81, 243, 81);
+    position: fixed ;
+    right: 2%;
+}
+ul {
+    list-style: none;
+    margin: 30px;
+}
+.imagenzinha{
+    width: 30px;
+}
+.direita{
+    float: right;
+}
+.metade{
+    width: 50%;
+
+}
+.menor{
+    width: 520px;
+}
+#botaoselecionado{
+    background-color: green;
+}
+
+body{
+    padding: 1%;
+}
+.butao2{
+    background-color: green;
+}
